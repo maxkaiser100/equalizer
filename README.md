@@ -12,7 +12,7 @@ This is a solution to the [Equalizer challenge on Frontend Mentor](https://www.f
 ### Links
 
 - Solution URL: https://github.com/maxkaiser100/equalizer.git
-- Live Site URL: https://maxkaiser100.github.io/order-summary/
+- Live Site URL: https://maxkaiser100.github.io/equalizer/
 
 ## My process
 
