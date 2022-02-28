@@ -1,21 +1,17 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Equalizer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
-### The challenge
 
-Users should be able to:
-
-- See hover states for interactive elements
 
 ### Screenshot
 
-![](./images/order-summary.png)
+![](./assets/desktop.png)
 
 ### Links
 
-- Solution URL: https://github.com/maxkaiser100/order-summary.git
+- Solution URL: https://github.com/maxkaiser100/equalizer.git
 - Live Site URL: https://maxkaiser100.github.io/order-summary/
 
 ## My process
@@ -25,10 +21,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 
 
 ### What I learned
 
+Major learning of how to make CSS grid responsive. Also using grid areas was new.
+Also learning absolute positioning tricks.
 
 
 ## Author
